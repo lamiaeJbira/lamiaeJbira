@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/lamiae jbira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lamiae jbira" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/lamyae jbira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lamyae jbira" height="30" width="40" /></a>
+<a href="linkedin.com/in/lamiae-jbira-5b44b5267" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lamiae jbira" height="30" width="40" /></a>
+<a href="[https://www.hackerrank.com/lamyae jbira](https://www.hackerrank.com/profile/lamyaejbira123)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lamyae jbira" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
