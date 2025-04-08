@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Java, JavaScript, React, Python, Android**
 
-- 📫 How to reach me **lamyaeJbira123@gmail.com**
+- 📫 How to reach me **l.jbira2022@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
